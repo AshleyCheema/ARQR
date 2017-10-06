@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SecureSide" size="100.000000 100.000000" />
+    <ImageTarget name="Public-Side" size="100.000000 100.000000" />
+    <ImageTarget name="Dungeness" size="100.000000 100.000000" />
+    <ImageTarget name="Chapelcross" size="100.000000 100.000000" />
+    <ImageTarget name="Sizewell" size="100.000000 100.000000" />
+    <ImageTarget name="Incubator-Office" size="100.000000 100.000000" />
+    <ImageTarget name="Conference-3" size="100.000000 100.000000" />
+    <ImageTarget name="Conference-Room-2" size="100.000000 100.000000" />
+    <ImageTarget name="Conference-Room-1" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
